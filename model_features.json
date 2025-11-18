@@ -1,0 +1,15 @@
+{
+  "features": [
+    "MonthsActive",
+    "SubscriptionPrice",
+    "LifetimeValue",
+    "IsMonthly",
+    "HasManualPayment",
+    "IsLowEngagement",
+    "UsesPremiumFeatures",
+    "UsesFeature1",
+    "UsesFeature2",
+    "ContactedSupport",
+    "FeatureAdoptionScore"
+  ]
+}
